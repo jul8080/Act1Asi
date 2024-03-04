@@ -1,6 +1,6 @@
 @extends('patients.layout')
 @section('content')
-<div class="row">
+<div class="">
 
     <div class="col-lg-15 margin-tb">
         <div class="pull-left">

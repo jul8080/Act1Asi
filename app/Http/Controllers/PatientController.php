@@ -67,4 +67,5 @@ class PatientController extends Controller
         return redirect()->route('patients.index')
             ->with('success', 'Patient record deleted');
     }
+
 }
